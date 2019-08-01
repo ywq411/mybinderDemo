@@ -1,0 +1,7 @@
+dependencies:
+  - python=3
+  - pip:
+    - IPython
+    - bs4
+    - requests
+    - ipykernel
